@@ -1,0 +1,1 @@
+print("Salom bu oddiy fayl")
