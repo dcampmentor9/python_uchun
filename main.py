@@ -1,1 +1,2 @@
-print("Salom bu oddiy fayl")
+arr = [1,2,3,4]
+print(arr)
